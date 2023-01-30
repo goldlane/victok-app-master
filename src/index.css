@@ -1,0 +1,14 @@
+#root {
+  min-width: 1000px;
+  min-height: 100vh;
+}
+.App {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: #f3f5f8;
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR',
+    'Malgun Gothic', sans-serif;
+
+  position: relative;
+}

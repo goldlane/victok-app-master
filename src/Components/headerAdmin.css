@@ -1,0 +1,17 @@
+.ant-menu.ant-menu-dark,
+.ant-menu-dark .ant-menu-sub,
+.ant-menu.ant-menu-dark .ant-menu-sub {
+  background-color: #162d59 !important;
+}
+
+.ant-menu-dark.ant-menu-inline .ant-menu-item,
+.ant-menu-dark.ant-menu-inline .ant-menu-submenu-title {
+  height: 30px !important;
+}
+
+.ant-menu-vertical .ant-menu-submenu,
+.ant-menu-vertical-left .ant-menu-submenu,
+.ant-menu-vertical-right .ant-menu-submenu,
+.ant-menu-inline .ant-menu-submenu {
+  margin-top: 20px;
+}
